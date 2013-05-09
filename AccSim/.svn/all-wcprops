@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/22/trunk/AccSim
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/AccSim/main.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/22/trunk/AccSim/Info.plist
+END
+NetworkView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/AccSim/NetworkView.xib
+END
+AccSim_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/AccSim/AccSim_Prefix.pch
+END
+AccelerometerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/AccSim/AccelerometerView.xib
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/AccSim/MainWindow.xib
+END

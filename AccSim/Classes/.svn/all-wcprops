@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/22/trunk/AccSim/Classes
+END
+NetworkView.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/AccSim/Classes/NetworkView.m
+END
+AccelerometerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/AccSim/Classes/AccelerometerViewController.h
+END
+AccelerationInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22/trunk/AccSim/Classes/AccelerationInfo.m
+END
+AccSimAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/AccSim/Classes/AccSimAppDelegate.h
+END
+AccelerometerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/AccSim/Classes/AccelerometerViewController.m
+END
+AccSimAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/AccSim/Classes/AccSimAppDelegate.m
+END
+NetworkView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/AccSim/Classes/NetworkView.h
+END
+AccelerationInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22/trunk/AccSim/Classes/AccelerationInfo.h
+END
